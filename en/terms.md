@@ -5,7 +5,7 @@ lang: en
 
 # Terms of Use
 
-These Terms of Use ("Terms") cover your use of our zazen app for iPhone (the App) provided by Takeru Ikeda ("we"). By using the App, you agree to these Terms.
+These Terms of Use ("Terms") cover your use of Soyoro, our iPhone app (the App) provided by Takeru Ikeda ("we"). By using the App, you agree to these Terms.
 
 ## 1. About the App
 

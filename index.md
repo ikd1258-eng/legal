@@ -1,9 +1,9 @@
 ---
-title: 規約とサポート
+title: Soyoro 規約とサポート
 lang: ja
 ---
 
-# 規約とサポート
+# Soyoro 規約とサポート
 
 - [プライバシーポリシー](privacy.html)
 - [利用規約](terms.html)

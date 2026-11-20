@@ -5,7 +5,7 @@ lang: en
 
 # Privacy Policy
 
-This policy explains how Takeru Ikeda ("we") handles information in our zazen app for iPhone (the App).
+This policy explains how Takeru Ikeda ("we") handles information in Soyoro, our iPhone app (the App).
 
 ## 1. Our approach
 
