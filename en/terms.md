@@ -13,7 +13,7 @@ The App guides you through zazen and keeps each day you sit as part of a garden.
 
 ## 2. What's free and what's in the subscription
 
-- The 3-minute basic zazen, the garden, your streak, goals, articles, and the monthly look back are free.
+- Basic zazen for up to 3 minutes, the garden, your streak, goals, the daily check-in, articles, and the monthly look back are free.
 - The other menus and lengths are part of the subscription (an auto-renewable subscription).
 
 ## 3. Subscription price, renewal, and cancellation
@@ -30,7 +30,7 @@ The App guides you through zazen and keeps each day you sit as part of a garden.
 
 - A Rest Day Pass keeps your streak going on a day you don't sit. You receive them as you keep sitting day after day, and you can also buy them one at a time.
 - Rest Day Passes you buy can be used only inside the App. They can't be exchanged for cash or anything else.
-- There's a limit on how many you can hold (3 if you don't subscribe, 5 if you do).
+- You can hold up to 3 at a time.
 
 ## 5. What you may not do
 
