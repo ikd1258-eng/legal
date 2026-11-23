@@ -19,6 +19,7 @@ The App keeps your sitting records and body data on your device only. It doesn't
 | Your device's movement while you sit (motion sensors) | To draw the patterns in the sand | On your device. The motion values are saved with your sitting record so the lines in the sand can be redrawn. They're never sent off your device |
 | Your answers to the daily check-in | To show the graphs in your garden and today's suggestion | On your device |
 | Heart rate from Health (read only if you allow it) | To show your heart rate before and after sitting in that day's record | In Health and on your device. Never sent off your device |
+| Sleep from Health (read only if you allow it) | To show your nightly sleep beside your garden and that day's record, and to set how much moss grows on a night's stone | In Health and on your device. Never sent off your device |
 | Mindful Minutes in Health (written only if you allow it) | To record your sitting time | In Health |
 | Notification permission | To show notices, such as when your free trial is ending, sent from your device itself | On your device |
 | Saving to Photos (only if you allow it) | To save the garden images or videos you choose | In your photo library |
