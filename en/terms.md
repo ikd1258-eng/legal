@@ -32,7 +32,7 @@ The App guides you through zazen and keeps each day you sit as part of a garden.
 
 - A Rest Day Pass keeps your streak going on a day you don't sit. You receive them as you keep sitting day after day, and you can also buy them one at a time.
 - Rest Day Passes you buy can be used only inside the App. They can't be exchanged for cash or anything else.
-- You can hold up to 3 at a time. You can't buy one while you hold 3. If a pass you bought arrives while you already hold 3, it is added once you use one and there's room.
+- You can buy one while you hold fewer than 3. Passes you get from sitting day after day or each month can take you past 3, up to 5. A pass you buy is always added, even beyond 5.
 
 ## 5. What you may not do
 
